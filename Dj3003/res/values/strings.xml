@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidMediaPlayerExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Now Playing:</string>
+    <string name="inital_Time">0 min, 0 sec</string>
+    <string name="menu">MENU</string>
+	<string name="nome1">\n Natal \n Ana Reis \n Brener \n Breno \n Daniel \n Davson \n Felipe \n Gabriel \n Paquetá \n Ingrid \n Israel \n Jean \n João Gabriel \n Matera \n João Vitor </string>
+	<string name="nome2">\n Platonow \n Lannes \n Luiz Fernando \n Luiz Gustavo \n Luiz Henrique \n Umbrela \n Matheus Felipe \n Matheus Gomes \n Pedro \n Ricardo \n Raquel \n Vitor Ganko \n Vitor Hugo \n Wendell</string>
+	<string name="imageDescription">Natal DJ</string>
+	<string name="credits">Créditos</string>
+	<string name="play">Iniciar</string>
+	<string name="playy">Play</string>
+	<string name="compilation">3003 COMPILATION</string>
+</resources>
